@@ -1,0 +1,34 @@
+*{
+  background-color: rgb(208, 219, 219);
+}
+
+img {
+  height: 200px;
+  width: 200px;
+  border-radius:7em;
+}
+
+.color-title {
+  font-weight: normal;
+}
+
+#빨간색 {
+  color: red;
+}
+
+#파란색 {
+  color: blue;
+}
+
+#주황색 {
+  color: orange;
+}
+
+#초록색 {
+  color: green;
+}
+
+#노란색 {
+  color: yellow;
+}
+
